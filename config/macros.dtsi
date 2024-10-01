@@ -1,3 +1,9 @@
+macro_macro_work_set: macro_macro_work_set{
+compatible = "zmk,behavior-macro";
+label = "macro_macro_work_set";
+#binding-cells = <0>;
+bindings = ;
+};
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
 label = "macro_quotes";
